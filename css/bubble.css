@@ -1,0 +1,24 @@
+/* css for table */
+#tableDiv
+{
+	margin-top:20px;
+	
+}
+
+#bubTable
+{
+	width:100%;
+}
+
+
+.circle:hover{
+  stroke: black;
+  stroke-width: 4px;
+}
+
+
+#showChart
+{
+	width:800px;
+	margin:0 auto;
+}
